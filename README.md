@@ -19,17 +19,18 @@ The same principle is used for other tables.
 ![image](https://github.com/petakantonio/DWH-and-BI/assets/126813875/330a4aa4-ac92-4b78-beb8-22e245043623)
 
 A dashboard consists of the following elements:
-• Line chart depicting the number of homicides per year
-• Stacked bar chart illustrating the distribution of weapon categories possessed by the victim
-• Pie chart showing the numbers and percentages of homicides based on races
-• Number of homicides
+- Line chart depicting the number of homicides per year
+- Stacked bar chart illustrating the distribution of weapon categories possessed by the victim
+- Pie chart showing the numbers and percentages of homicides based on races
+- Number of homicides
+
 Filters:
-• Age – range from 12 to 91 years
-• Gender – F for female and M for male
-• Attempted escape – by car, on foot, did not attempt, other
-• Signs of mental illness – yes or no
-• Mode of death – shot or shocked with an electroshock device and shot
-• Body camera – present or not
+- Age – range from 12 to 91 years
+- Gender – F for female and M for male
+- Attempted escape – by car, on foot, did not attempt, other
+- Signs of mental illness – yes or no
+- Mode of death – shot or shocked with an electroshock device and shot
+- Body camera – present or not
 
 ![image](https://github.com/petakantonio/DWH-and-BI/assets/126813875/6bc7233c-5e1f-43ed-9813-5f448fbfde45)
 

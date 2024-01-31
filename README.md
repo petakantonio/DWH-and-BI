@@ -36,7 +36,7 @@ Filters:
 
 The filters applied include an age range from 12 to 91, only males, the victim did not attempt to escape, the victim showed signs of mental illness, the police officer did not have a body camera, and the victim was of the black race. According to this statistics, we can see that 188 individuals matching our criteria were killed. The majority of the victims had some type of firearms, and the highest number of such homicides occurred in 2018, totaling 47.
 
-## Murder locations
+## Homicides locations
 ![image](https://github.com/petakantonio/DWH-and-BI/assets/126813875/3e9361c8-5d00-4621-8bce-0e611f139dd1)
 
 A map of the USA is displayed, showing the states where homicides occurred. A stacked bar chart depicts cities with the number of homicides per city, and the number of homicides changes depending on the selected city or state. The size of the circles on the map indicates the quantity of homicides per state. It can be observed that the highest number of homicides occurred in the city of Houston, totaling 230, while the state with the highest number of homicides is California with 1,054 murders.

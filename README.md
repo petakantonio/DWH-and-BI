@@ -16,7 +16,8 @@ The same principle is used for other tables.
 ![image](https://github.com/petakantonio/DWH-and-BI/assets/126813875/e3b718f8-1d8c-4cda-be54-28b9e1715622)
 
 ## Dashboard
-![image](https://github.com/petakantonio/DWH-and-BI/assets/126813875/330a4aa4-ac92-4b78-beb8-22e245043623)
+![image](https://github.com/user-attachments/assets/c996fcd5-2f4c-41dd-9642-1b3c14d9dda3)
+
 
 A dashboard consists of the following elements:
 - Line chart depicting the number of homicides per year
